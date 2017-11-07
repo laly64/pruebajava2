@@ -5,17 +5,31 @@
  */
 package pruebajava2;
 
+import javax.swing.JOptionPane;
+
 /**
- *
+ *Lavinia Avalos Oyarzo
+ * Fecha 06 de Noviembre 2017
  * @author LAB02
+ * Clase pruebajava2
+ * Responsabilidad Clase principal
  */
-public class Pruebajava2 {
+public class Pruebajava2 
+
+{
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    public static void main(String[] args)
+    {
+
+             
+             
+            
+         }
+         
+     }
+ 
     
-}
+

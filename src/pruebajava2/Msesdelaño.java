@@ -8,7 +8,11 @@ package pruebajava2;
 import javax.swing.JOptionPane;
 
 /**
- *
+ * *Lavinia Avalos Oyarzo
+ * Fecha 06 de Noviembre 2017
+ * @author LAB02
+ * Clase pruebajava2
+ * Responsabilidad Clase principal
  * @author LAB02
  */
 public class Msesdelaño 
