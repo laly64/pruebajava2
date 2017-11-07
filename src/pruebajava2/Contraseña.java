@@ -41,6 +41,7 @@ public class Contraseña
    
           System.out.println("contraseña incorrecta");
          numero++;
+ 
          
           JOptionPane.showMessageDialog(null, "Ingrese nuevamente la contraseña");
          System.out.println("contraseña incorrecta");
@@ -53,7 +54,7 @@ public class Contraseña
       JOptionPane.showMessageDialog(null, "");
       {
       } 
-      {
+    }
           
       
 
